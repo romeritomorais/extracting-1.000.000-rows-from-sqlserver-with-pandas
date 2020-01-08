@@ -1,4 +1,4 @@
-![](https://github.com/romeritomorais/manipulando-dados-no-sqlserver-com-python/blob/master/resources/logo.jpeg)
+![](https://github.com/romeritomorais/manipulando-dados-no-sqlserver-com-python/blob/master/resources/logo.png)
 
 ## Instalação e configuração da base de dados
 
