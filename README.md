@@ -1,1 +1,1 @@
-![Legenda](url da img)
+![](https://github.com/romeritomorais/manipulando-dados-no-sqlserver-com-python/blob/master/resources/logo.jpeg)
